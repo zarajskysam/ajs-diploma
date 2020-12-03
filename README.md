@@ -1,4 +1,5 @@
-# AJS. Retro Game [![Build status](https://ci.appveyor.com/api/projects/status/8qf3r4we053ajw8m?svg=true)](https://ci.appveyor.com/project/zarajskysam/ajs-diploma-ux90u) [Gh-pages](https://zarajskysam.github.io/ajs-diploma/dist/)
+# AJS. Retro Game [![Build status](https://ci.appveyor.com/api/projects/status/qms06kwcng4ljg5s?svg=true)](https://ci.appveyor.com/project/zarajskysam/ajs-diploma-aaimy)
+ [Gh-pages](https://zarajskysam.github.io/ajs-diploma/dist/)
 
 
 ###### tags: `netology` `advanced js`
